@@ -49,6 +49,15 @@ Pasting with smartindent automatically turned off temporarily
 | ---    | ---                                                                                                  |
 | Insert | Use your terminal key for pasting, for example `Ctrl+Shitf+V` in Ubuntu and `Shift+Insert` in Cygwin |
 
+# Install
+
+Using [Vundle](https://github.com/VundleVim/Vundle.vim) plugin manager:
+
+```VIML
+Plugin 'NLKNguyen/copy-cut-paste.vim'
+```
+
+Or manually: copy `copy-cut-paste.vim` file to your `~/.vim/plugin/` directory
 
 # License
 Same as Vim
