@@ -47,7 +47,7 @@ Pasting with smartindent automatically turned off temporarily
 
 | Mode   | Key                                                                                                  |
 | ---    | ---                                                                                                  |
-| Insert | Use your terminal key for pasting, for example `Ctrl+Shitf+V` in Ubuntu and `Shift+Insert` in Cygwin |
+| Insert | Use your terminal key for pasting, for example `Ctrl+Shift+V` in Ubuntu and `Shift+Insert` in Cygwin |
 
 # Install
 
