@@ -60,7 +60,7 @@ function! s:XTermPasteBegin()
   return ""
 endfunction
 
-inoremap <special> <expr> <Esc>[200~ <SID>XTermPasteBegin()
+nnoremap <special> <expr> <Esc>[200~ <SID>XTermPasteBegin()
 " }}}
 
 " vim: foldmethod=marker

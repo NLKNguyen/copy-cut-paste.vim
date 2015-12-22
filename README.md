@@ -15,6 +15,8 @@ If not available and you're on Ubuntu, the fastest way to have it is through thi
 sudo apt-get install vim-gtk
 ```
 
+GVim has it by default in all OSes
+
 # Keymaps
 
 **Default**
@@ -45,9 +47,9 @@ nmap QV <Plug>CCP_PasteText
 -------
 Pasting with smartindent automatically turned off temporarily
 
-| Mode   | Key                                                                                                  |
-| ---    | ---                                                                                                  |
-| Insert | Use your terminal key for pasting, for example `Ctrl+Shift+V` in Ubuntu and `Shift+Insert` in Cygwin |
+| Mode   | Key                                                                                                   |
+| ---    | ---                                                                                                   |
+| Normal | Use your terminal key for pasting, ex: `Ctrl+Shift+V` in Ubuntu and `Shift+Insert` in Windows |
 
 # Install
 
